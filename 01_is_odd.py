@@ -16,7 +16,7 @@ import unittest
 # Implement the below function and run this file
 # Return the output, No need read input or print the ouput
 
-
+#function for finding odd number
 def is_odd(n):
     if n%2 != 0:
       return True
